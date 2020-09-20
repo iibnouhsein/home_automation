@@ -17,7 +17,7 @@ Details of the 'data' field
 
 `GET /devices`
 
-**Response**
+**Responses**
 
 - '200 OK' on success
 
